@@ -7,7 +7,23 @@ Instead of relying on Pivot Tables, I used powerful Excel functions like:
 - `FILTER`, `SORT`, `UNIQUE` for dynamic data views
 - `XLOOKUP` for flexible lookups
 
+ 📁 **File Info**
+
+- `e-bike-dashboard.xlsx`: Main dashboard file
+- `README.md`: Project documentation
+
 ---
+
+## 🔗 Project Files & Visuals
+
+### 📊 Dashboard Preview
+![Dashboard Preview](assets/dashboard.png)
+
+### 🧱 Data Model Snapshot
+![Data Model Snapshot](assets/data-model.png)
+
+---
+
 
 ## 📌 Why No Pivot Tables?
 
@@ -42,12 +58,3 @@ This project was built entirely with formulas to maintain:
 - How to build robust dashboards using formulas only.
 - Dynamic data modeling in Excel without relying on Pivot Tables.
 - Practical use of advanced Excel functions for reporting.
-
----
-
-## 📁 File Info
-
-- `e-bike-dashboard.xlsx`: Main dashboard file
-- `README.md`: Project documentation
-
----
